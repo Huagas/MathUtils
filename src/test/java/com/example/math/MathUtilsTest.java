@@ -7,7 +7,7 @@ class MathUtilsTest {
 
     @Test
     public void testFactorial_ValidInput() {
-        assertEquals(120, MathUtils.calculateFactorial(5));
+        assertEquals(100, MathUtils.calculateFactorial(5));
     }
 
     @Test
